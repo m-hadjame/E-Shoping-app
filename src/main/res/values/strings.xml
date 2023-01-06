@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">E_Shoping</string>
+    <string name="Garantie">Garantie</string>
+    <string name="sans_garantie">Sans garantie?</string>
+    <string name="Avec_garantie">Avec garantie?</string>
+    <string name="url">https://www.t-mobile.com/cell-phones</string>
+    <string name="test">test</string>
+    <string name="desc">Description:</string>
+    <string name="Prix">Prix:</string>
+    <string name="Livraison">Livraison:</string>
+    <string name="Lien">Lien:</string>
+    <string name="garantie">60 jours pour vous</string>
+
+</resources>
